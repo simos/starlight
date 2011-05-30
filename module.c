@@ -45,9 +45,9 @@ int gcd(int a, int b)
 double pow(double k, double m)
 {
 	printf("Dwste ton k");
-	scanf("%f", &k);
+	scanf("%lf", &k);
 	printf("Dwste ton m");
-	scanf("%f", &m);
+	scanf("%lf", &m);
 	if (k == 0)
 		return 1;
 	else
