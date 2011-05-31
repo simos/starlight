@@ -1,6 +1,6 @@
-#include "module.h"
-#include<math.h>
 #include <stdio.h>
+#include <math.h>
+#include "module.h"
 
 char main_interface(char ch)
 {
