@@ -1,5 +1,6 @@
 #include "module.h"
 #include<math.h>
+#include <stdio.h>
 
 char main_interface(char ch)
 {
